@@ -1,5 +1,5 @@
-(http://spinorlab.matrix.jp/en/wp-content/uploads/2017/12/DSC_8266.jpg)
-(http://spinorlab.matrix.jp/en/wp-content/uploads/2017/12/Screen-Shot-2017-12-23-at-9.20.24.png)
+![pic1](http://spinorlab.matrix.jp/en/wp-content/uploads/2017/12/DSC_8266.jpg)
+![pic2](http://spinorlab.matrix.jp/en/wp-content/uploads/2017/12/Screen-Shot-2017-12-23-at-9.20.24.png)
 
 /* RigExpert AA-30.ZERO */
 
